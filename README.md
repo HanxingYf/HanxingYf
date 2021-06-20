@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 嘿，恭喜你发现发现宝藏💎
+- 这里是一个22届本科生，目前正在滴滴实习（前端）
+- 欢迎大家加我微信 15387941990 一起交流
+- [掘金链接](https://juejin.cn/user/1987552097864750)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HanxingYf&show_icons=true">
 
